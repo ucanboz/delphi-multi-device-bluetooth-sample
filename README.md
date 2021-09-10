@@ -1,2 +1,2 @@
 # delphi-multi-device-bluetooth-sample
-Delphi FMX Bluetooth Sample
+FMX Bluetooth Sample in RAD Studio
